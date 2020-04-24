@@ -9,10 +9,10 @@ This repository contains python programs, apps and competitive coding problems i
   </ul>
   <li><h3><b>Competitive Coding</b></h3></li>
   <ul>
-    <li> This branch contains solutions to problems to various competitive coding problems.</li>
+    <li> This category contains solutions to problems to various competitive coding problems.</li>
   </ul>
   <li><h3><b>Lab Manual programs</b></h3></li>
   <ul>
-    <li> This branch contains lab manual programs for <em>fundamental</em> knowledge of python.</li>
+    <li> This category contains lab manual programs for <em>fundamental</em> knowledge of python.</li>
   </ul>
 </ol>
