@@ -1,0 +1,15 @@
+from tkinter import *
+from tkinter import ttk
+root=Tk()
+root.resizable(False,True)
+root.title("RadioButton")
+label=Label(root,text="Gender")
+label.grid(row=0,column=0 ,padx=5,pady=5)
+rb1=StringVar()
+radiobut1=ttk.Radiobutton(root,text="Male",variable=rb1,value="male")
+radiobut1.grid(row=1,column=0, padx=3, pady=3)
+radiobut2 = ttk.Radiobutton(root, text="Female", variable = rb1, value="female")
+radiobut2.grid(row=2,column=0, padx=3, pady=3)
+radiobut3 = ttk.Radiobutton(root, text="LGBTQ", variable = rb1, value="lgbtq")
+radiobut3.grid(row=3,column=0, padx=3, pady=3)
+root.mainloop()
