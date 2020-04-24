@@ -1,0 +1,5 @@
+tuple=(1,30,34,45,67,89)
+print("The tuple is:",tuple)
+print("The fourth element of the tuple is:",tuple[3])
+print("First two elements of the tuple:",tuple[0:2])
+print("The length of the tuple is:",len(tuple))

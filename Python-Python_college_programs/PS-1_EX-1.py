@@ -1,0 +1,8 @@
+name=input("Enter your ful name:")
+roll=input("Enter your roll no. :")
+div=input("Enter your division:")
+add=input("Enter your address:")
+print(name)
+print(roll)
+print(div)
+print(add)
